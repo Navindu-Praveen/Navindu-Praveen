@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Android , MERN**
 
-- 👯 I’m looking to collaborate on **Java , MERN**
+- 💻 I’m looking to collaborate on **Java , MERN**
 
 - 📫 How to reach me **talktopra@gmail.com**
 
