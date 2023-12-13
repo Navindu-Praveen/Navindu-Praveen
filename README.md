@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Sinhala-text-to-speech using natural language processing and machine learning**
 
-- 🌱 I’m currently learning ** machine learning **
+- 🌱 I’m currently learning **machine learning**
 
-- 💻 I’m looking to collaborate on **Java , MERN, Python **
+- 💻 I’m looking to collaborate on **Java , MERN, Python**
 
 - 📫 How to reach me **talktopra@gmail.com**
 
-- ⚡ Fun fact **😁**
+
 
 <h3 align="left">Connect with me:</h3>
 
