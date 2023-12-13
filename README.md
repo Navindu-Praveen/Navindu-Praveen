@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://polybit-apps.s3.amazonaws.com/stdlib/users/github/cover/image.png?1637039278668) -->
+<!-- ![MasterHead] -->
 <h1 align="center">Hi 👋, I'm Navindu Praveen</h1>
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></img>
