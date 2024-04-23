@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Navindu Praveen</h1>
 https://developers.google.com/profile/badges/events/io/2024/registered
 
+<img align="right" alt="badges" width="200" src="https://developers.google.com/profile/badges/events/io/2024/registered
+" > </img>
+
 
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></img>
