@@ -1,9 +1,6 @@
 <!-- ![MasterHead] -->
 <h1 align="center">Hi 👋, I'm Navindu Praveen</h1>
-https://developers.google.com/profile/badges/events/io/2024/registered
-
-<img align="right" alt="badges" width="200" src="https://developers.google.com/profile/badges/events/io/2024/registered
-" > </img>
+<img align="right" alt="badges" width="200" src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" > </img>
 
 
 <h3 align="center"> </h3>
