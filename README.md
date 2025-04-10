@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/na6praveen" target="blank"><img src="https://img.shields.io/twitter/follow/na6praveen?logo=twitter&style=for-the-badge" alt="na6praveen" /></a> </p>
 
-- 🔭 I’m currently working on **Sinhala Spell Checker and Sinhala Text-to-Speech using natural language processing and machine learning**
+- 🔭 I’m currently working on **Cheque-Digit-Recognition-with-Deep-Learning**
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💻 I’m looking to collaborate on **Java , MERN, Python**
+- 💻 I’m looking to collaborate on **Java , MERN, Python , ML , AI **
 
 - 📫 How to reach me **talktopra@gmail.com**
 
