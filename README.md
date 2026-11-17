@@ -78,10 +78,7 @@ A research project exploring Machine Learning and Natural Language Processing te
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navindu-Praveen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navindu-Praveen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Navindu-Praveen&theme=tokyonight&hide_border=true" alt="GitHub streak" width="98%" />
