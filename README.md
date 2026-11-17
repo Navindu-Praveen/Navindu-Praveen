@@ -66,13 +66,7 @@ A research project exploring Machine Learning and Natural Language Processing te
 
 🔗 [Read the IEEE Publication](https://ieeexplore.ieee.org/abstract/document/10851159)
 
----
 
-## 🎓 Education & Certifications
-
-- **BSc (Hons) in Information Technology** – Sri Lanka Institute of Information Technology (SLIIT)
-- Microsoft Azure Fundamentals (AZ-900)
-- Google Cloud Fundamentals: Core Infrastructure
 
 ---
 
